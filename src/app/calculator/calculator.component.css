@@ -1,0 +1,17 @@
+* {
+  margin: 1%;
+}
+
+#output
+{
+  margin: 4%;
+  width: 90%;
+  height: 60px;
+  text-align: right;
+  font-size: 30px;
+  
+}
+
+div {
+  margin: 0 0 5px 0;
+}
